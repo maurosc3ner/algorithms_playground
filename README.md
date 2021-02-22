@@ -1,8 +1,8 @@
 # Algorithms-Sedgewick and Wayne in Python
 
-## Algorithms (2nd Edition) with Python
+## Algorithms (4th Edition) with Python
 
-This repository provides my interpretation and playground of several important algorithms found in the chapters of Algorithms 2nd Edition by Professors Sedgewick and Wayne to Python and matplotlib.
+This repository provides my interpretation and playground of several important algorithms found in the chapters of Algorithms 4th Edition by Professors Sedgewick and Wayne to Python and matplotlib.
 
 ## Misc Notes
 Why Algorithms and Python? There are many great languages out there. I especially like C++ because it was the first I learned. There are two main reasons why I chose to do this exercise:
