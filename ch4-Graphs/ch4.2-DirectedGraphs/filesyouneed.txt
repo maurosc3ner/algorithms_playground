@@ -1,0 +1,4 @@
+largeG.txt
+mediumG.txt
+tinyDG.txt
+tinyG.txt

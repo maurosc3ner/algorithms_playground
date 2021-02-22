@@ -1,0 +1,14 @@
+Luis 15 25
+Esteban 12 54
+Correa 85 63
+Felipe 47 41
+Mauricio 12 35
+Elena 1 7
+Luz 98 12
+Jose 54 21
+Alvaro 14 34
+Andres 21 54
+David 45 54
+Diego 56 78
+Natalia 7 41
+Fernanda 41 89
