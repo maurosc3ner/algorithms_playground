@@ -1,4 +1,4 @@
-# Algorithms-Sedgewick an dWayne in Python
+# Algorithms-Sedgewick and Wayne in Python
 
 ## Algorithms (2nd Edition) with Python
 
